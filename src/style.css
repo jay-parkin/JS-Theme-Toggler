@@ -1,0 +1,11 @@
+:root {
+  --backgroundColour: darkgrey;
+  --fontColour: white;
+
+  --theme-100: #4641d1;
+}
+
+body {
+  background-color: var(--backgroundColour);
+  color: var(--fontColour);
+}
